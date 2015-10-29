@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BEFD-3F14
+
+ Directory of C:\Users\admin\ali
+
+10/29/2015  11:58 PM    <DIR>          .
+10/29/2015  11:58 PM    <DIR>          ..
+10/29/2015  11:58 PM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,857,291,776 bytes free
